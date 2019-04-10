@@ -2,16 +2,16 @@ Rank,Code,Name,Score,VisaFree,VisaOnArrival,eTArequired
 1,SGP,Singapore,8463.95,127,34,4
 2,DEU,Germany,8439.76,122,38,6
 3,DNK,Denmark,8382.96,121,38,6
-4,FIN,Finland,8382.96,121,38,6
-5,ITA,Italy,8382.96,121,38,6
-6,SWE,Sweden,8382.96,121,38,6
+3,FIN,Finland,8382.96,121,38,6
+3,ITA,Italy,8382.96,121,38,6
+3,SWE,Sweden,8382.96,121,38,6
 7,LUX,Luxembourg,8382.25,121,38,6
 8,FRA,France,8378.66,120,39,6
 9,KOR,Korea (Republic of),8374.51,116,43,6
 10,ESP,Spain,8372.1,119,40,6
 11,AUT,Austria,8370.59,119,40,6
-12,BEL,Belgium,8370.59,119,40,6
-13,NLD,Netherlands,8370.59,119,40,6
+11,BEL,Belgium,8370.59,119,40,6
+11,NLD,Netherlands,8370.59,119,40,6
 14,CHE,Switzerland,8368.5,117,42,6
 15,PRT,Portugal,8366.3,118,41,6
 16,NOR,Norway,8365.59,117,42,6
@@ -30,7 +30,7 @@ Rank,Code,Name,Score,VisaFree,VisaOnArrival,eTArequired
 29,LTU,Lithuania,8199.05,115,41,6
 30,NZL,New Zealand,8168.63,108,48,5
 31,SVK,Slovakia,8162.68,115,40,6
-32,EST,Estonia,8162.68,115,40,6
+31,EST,Estonia,8162.68,115,40,6
 33,LVA,Latvia,8146.79,115,40,6
 34,AUS,Australia,8141.58,105,51,5
 35,POL,Poland,8138.81,116,40,5

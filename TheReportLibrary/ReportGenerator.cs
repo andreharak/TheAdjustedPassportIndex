@@ -333,15 +333,30 @@ namespace TheReportLibrary
             var records = new List<PassportFinalScore>();
 
             int rank = 1;
+            int nbSameRank = 1;
+            double previous_score = PassportFinalScores.Values.Max();
             foreach (var x in DisplayList)
             {
                 string fullName = CountriesFullNames[x.Key];
+                double score = Math.Round(x.Value, 2);
                 int nbVisaFree = PassportVisaFreeDestinations[x.Key].Count;
                 int nbVisaOnArrival = PassportVisaOnArrivalDestinations[x.Key].Count;
                 int nbETArequired = PassporteTArequiredDestinations[x.Key].Count;
 
-                records.Add(new PassportFinalScore(rank, x.Key, fullName, Math.Round(x.Value, 2), nbVisaFree, nbVisaOnArrival, nbETArequired));
-                rank++;
+                // Increase rank
+                if (score < previous_score)
+                {
+                    previous_score = score;
+                    rank += nbSameRank;
+                    nbSameRank = 1;
+                }
+                // Maintain same rank
+                else if (Math.Abs(score - previous_score) < double.Epsilon)
+                {
+                    nbSameRank++;
+                }
+
+                records.Add(new PassportFinalScore(rank, x.Key, fullName, score, nbVisaFree, nbVisaOnArrival, nbETArequired));
             }
 
             using (StreamWriter writer = new StreamWriter(filePath))
