@@ -42,15 +42,15 @@ The total score of a passport is equal to the total of all its accessible destin
 
 Top 20 destinations:
 
-<img src="https://github.com/AndreaDaVinci/TheDaVinciPassportIndex/raw/master/...../Resources/Top20Destinations.png" alt="hi" class="inline"/>
+<img src="https://github.com/AndreaDaVinci/TheDaVinciPassportIndex/raw/master/TheReportGenerator/Results/Top20Destinations.png" alt="hi" class="inline"/>
 
 Top 20 passports:
 
-<img src="https://github.com/AndreaDaVinci/TheDaVinciPassportIndex/raw/master/...../Resources/Top20Passports.png" alt="hi" class="inline"/>
+<img src="https://github.com/AndreaDaVinci/TheDaVinciPassportIndex/raw/master/TheReportGenerator/Results/Top20Passports.png" alt="hi" class="inline"/>
 
 # Download
 
-Download [The DaVinci Passport Index 2019](https://github.com/AndreaDaVinci/.../result.pdf).
+Download [The DaVinci Passport Index 2019](https://github.com/AndreaDaVinci/TheDaVinciPassportIndex/raw/master/TheReportGenerator/Results/The%20Da%20Vinci%20Passport%20Index%202019.pdf).
 
 # References
 
