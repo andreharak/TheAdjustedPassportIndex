@@ -1,7 +1,7 @@
 ### Welcome to The Da Vinci Passport Index
 
 The Da Vinci Passport Index is a ranking of the world's passports, using a comprehensive formula that avoids oversimplifying.
-For more details, check the <a href="https://medium.com/@AndreaDaVinci/the-da-vinci-passport-index-c3e574c15adb?">article on Medium</a>.
+For more details, check the <a href="https://medium.com/@AndreaDaVinci/the-da-vinci-passport-index-c3e574c15adb">article on Medium</a>.
 
 # Ingredients
 
