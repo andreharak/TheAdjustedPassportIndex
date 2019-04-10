@@ -1,0 +1,200 @@
+Rank,Code,Name,Score,VisaFree,VisaOnArrival,eTArequired
+1,SGP,Singapore,8463.95,127,34,4
+2,DEU,Germany,8439.76,122,38,6
+3,DNK,Denmark,8382.96,121,38,6
+4,FIN,Finland,8382.96,121,38,6
+5,ITA,Italy,8382.96,121,38,6
+6,SWE,Sweden,8382.96,121,38,6
+7,LUX,Luxembourg,8382.25,121,38,6
+8,FRA,France,8378.66,120,39,6
+9,KOR,Korea (Republic of),8374.51,116,43,6
+10,ESP,Spain,8372.1,119,40,6
+11,AUT,Austria,8370.59,119,40,6
+12,BEL,Belgium,8370.59,119,40,6
+13,NLD,Netherlands,8370.59,119,40,6
+14,CHE,Switzerland,8368.5,117,42,6
+15,PRT,Portugal,8366.3,118,41,6
+16,NOR,Norway,8365.59,117,42,6
+17,JPN,Japan,8364.25,116,42,6
+18,GRC,Greece,8318.17,118,40,6
+19,GBR,United Kingdom of Great Britain and Northern Ireland,8312.47,115,43,6
+20,IRL,Ireland,8311.79,114,44,6
+21,CAN,Canada,8302.13,111,49,4
+22,USA,United States of America,8284.41,112,49,4
+23,ARE,United Arab Emirates,8283.89,111,54,3
+24,CZE,Czech Republic,8270.36,118,39,6
+25,MLT,Malta,8266.49,118,39,6
+26,HUN,Hungary,8266.03,117,40,6
+27,ISL,Iceland,8262.38,114,43,6
+28,SVN,Slovenia,8205.6,116,40,6
+29,LTU,Lithuania,8199.05,115,41,6
+30,NZL,New Zealand,8168.63,108,48,5
+31,SVK,Slovakia,8162.68,115,40,6
+32,EST,Estonia,8162.68,115,40,6
+33,LVA,Latvia,8146.79,115,40,6
+34,AUS,Australia,8141.58,105,51,5
+35,POL,Poland,8138.81,116,40,5
+36,CHL,Chile,8068.77,106,46,5
+37,LIE,Liechtenstein,8059.08,111,41,6
+38,CYP,Cyprus,8054.26,117,37,5
+39,MYS,Malaysia,8027.39,116,39,4
+40,ARG,Argentina,8012.46,105,48,3
+41,BRA,Brazil,8000.54,108,46,3
+42,ROU,Romania,7988.57,113,40,5
+43,BGR,Bulgaria,7978.75,111,42,5
+44,MCO,Monaco,7975.96,105,46,6
+45,HRV,Croatia,7941.92,112,40,5
+46,HKG,Hong Kong,7819.73,112,36,5
+47,SMR,San Marino,7681.8,101,41,6
+48,AND,Andorra,7629.56,96,47,6
+49,BRN,Brunei Darussalam,7408.61,100,40,6
+50,MEX,Mexico,7404.67,95,45,4
+51,URY,Uruguay,7397.62,97,43,3
+52,BRB,Barbados,7334.4,104,36,4
+53,ISR,Israel,7297.41,100,42,4
+54,BHS,Bahamas,7214.33,100,36,4
+55,VAT,Holy See,7181.46,95,42,5
+56,CRI,Costa Rica,7024.37,89,44,3
+57,PER,Peru,6927.4,86,48,3
+58,SYC,Seychelles,6905.43,102,33,1
+59,TTO,Trinidad and Tobago,6845.48,97,35,3
+60,VCT,Saint Vincent and the Grenadines,6817.07,98,35,3
+61,UKR,Ukraine,6752.33,86,42,4
+62,PRY,Paraguay,6747.71,86,42,3
+63,KNA,Saint Kitts and Nevis,6744.07,97,34,3
+64,PAN,Panama,6726.45,85,43,3
+65,ATG,Antigua and Barbuda,6716.05,97,33,3
+66,MUS,Mauritius,6649.38,96,33,3
+67,SRB,Serbia,6595.54,81,43,3
+68,MAC,Macao,6578.32,88,39,3
+69,VEN,Venezuela (Bolivarian Republic of),6575.72,81,46,3
+70,GRD,Grenada,6507.2,93,32,3
+71,TWN,Taiwan,6443.78,78,45,7
+72,HND,Honduras,6420.31,80,42,3
+73,LCA,Saint Lucia,6400.88,91,35,3
+74,GTM,Guatemala,6372.2,78,44,3
+75,SLV,El Salvador,6352.01,78,42,3
+76,COL,Colombia,6273.6,78,43,3
+77,DMA,Dominica,6233.18,87,35,3
+78,VUT,Vanuatu,6064.64,83,39,3
+79,MNE,Montenegro,6035.62,74,41,3
+80,MKD,Macedonia (the former Yugoslav Republic of),6015.89,74,42,3
+81,WSM,Samoa,6013.49,81,38,4
+82,SLB,Solomon Islands,6012.99,82,39,4
+83,BIH,Bosnia and Herzegovina,5862.6,71,40,3
+84,GEO,Georgia,5862.47,71,42,3
+85,NIC,Nicaragua,5831.22,72,41,3
+86,TUV,Tuvalu,5814.37,80,38,3
+87,TON,Tonga,5768.18,80,35,3
+88,KIR,Kiribati,5743.64,77,39,3
+89,MDA,Moldova (Republic of),5723.13,72,38,3
+90,MHL,Marshall Islands,5677.87,71,44,3
+91,ALB,Albania,5627.08,67,41,3
+92,PLW,Palau,5521.84,65,46,3
+93,RUS,Russian Federation,5449.69,76,36,4
+94,FSM,Micronesia (Federated States of),5402.87,64,45,3
+95,TUR,Turkey,5293.45,68,44,3
+96,TLS,Timor-Leste,4708.51,53,39,3
+97,ZAF,South Africa,4570.17,60,35,3
+98,ECU,Ecuador,4303.38,44,45,3
+99,KWT,Kuwait,4204.23,49,43,3
+100,QAT,Qatar,4166.06,48,40,4
+101,JAM,Jamaica,4154.53,52,35,3
+102,BLZ,Belize,4130.36,57,32,3
+103,FJI,Fiji,4024.18,47,41,3
+104,GUY,Guyana,3884.08,44,39,3
+105,BHR,Bahrain,3740.5,42,40,2
+106,KAZ,Kazakhstan,3729.65,34,43,3
+107,BOL,Bolivia (Plurinational State of),3708.23,34,43,3
+108,MDV,Maldives,3694.07,43,41,1
+109,BLR,Belarus,3663.69,40,37,2
+110,SUR,Suriname,3621.76,35,41,3
+111,THA,Thailand,3579.31,34,43,3
+112,OMN,Oman,3559.76,35,41,4
+113,NRU,Nauru,3441.77,40,39,3
+114,SAU,Saudi Arabia,3417.43,36,40,2
+115,IDN,Indonesia,3409.65,34,40,3
+116,BWA,Botswana,3359.14,46,28,3
+117,PNG,Papua New Guinea,3298.36,34,41,4
+118,LSO,Lesotho,3275.56,43,30,3
+119,SWZ,Swaziland,3183.09,42,30,3
+120,CHN,China,3150.19,25,47,3
+121,DOM,Dominican Republic,3147.11,24,44,3
+122,MNG,Mongolia,3127.43,29,37,3
+123,AZE,Azerbaijan,3118.08,31,37,3
+124,NAM,Namibia,3100.96,38,30,3
+125,ARM,Armenia,3076.96,29,37,3
+126,MWI,Malawi,3046.67,40,30,3
+127,CUB,Cuba,3033.73,27,42,3
+128,PHL,Philippines,3006.35,32,36,2
+129,KEN,Kenya,2952.2,38,32,2
+130,TUN,Tunisia,2950.04,33,36,1
+131,KGZ,Kyrgyzstan,2937.45,26,40,2
+132,ZMB,Zambia,2916.2,38,28,3
+133,TZA,"Tanzania, United Republic of",2903.92,39,28,3
+134,CPV,Cabo Verde,2845.62,32,36,2
+135,GMB,Gambia,2828.63,43,24,2
+136,ZWE,Zimbabwe,2807.89,36,28,3
+137,MAR,Morocco,2765.8,29,38,1
+138,UGA,Uganda,2746.05,33,33,2
+139,UZB,Uzbekistan,2738.34,23,37,3
+140,BTN,Bhutan,2674.84,15,45,2
+141,TJK,Tajikistan,2661.16,23,36,3
+142,GHA,Ghana,2660.44,38,27,1
+143,IND,India,2655.2,22,39,3
+144,HTI,Haiti,2596.92,18,40,3
+145,STP,Sao Tome and Principe,2594.41,21,40,2
+146,SLE,Sierra Leone,2517.66,39,23,1
+147,KHM,Cambodia,2496.87,17,40,3
+148,MDG,Madagascar,2490.32,21,35,3
+149,BEN,Benin,2486.4,29,32,1
+150,DZA,Algeria,2446.05,16,42,2
+151,MRT,Mauritania,2427.94,25,33,1
+152,VNM,Viet Nam,2417.79,18,36,3
+153,GAB,Gabon,2416.62,22,35,2
+154,CIV,Cote d'Ivoire,2410.69,27,34,1
+155,LAO,Lao People's Democratic Republic,2403.44,18,36,3
+156,MOZ,Mozambique,2400.05,24,31,3
+157,SEN,Senegal,2367.14,29,30,2
+158,GIN,Guinea,2355.46,26,31,1
+159,TKM,Turkmenistan,2349.37,15,40,2
+160,COM,Comoros,2339.7,15,38,3
+161,AGO,Angola,2331.05,21,32,3
+162,JOR,Jordan,2328.27,18,36,3
+163,BFA,Burkina Faso,2317.47,27,32,1
+164,RWA,Rwanda,2308.91,21,36,3
+165,MLI,Mali,2253.36,30,26,1
+166,NER,Niger,2243.98,27,28,2
+167,TGO,Togo,2231.79,24,32,1
+168,EGY,Egypt,2222.16,16,39,1
+169,TCD,Chad,2149.56,20,33,1
+170,MMR,Myanmar,2140.9,12,36,3
+171,GNB,Guinea-Bissau,2129.82,25,30,0
+172,GNQ,Equatorial Guinea,2107.89,16,37,2
+173,BDI,Burundi,2068.35,17,32,3
+174,LBR,Liberia,2036.14,24,27,1
+175,DJI,Djibouti,2015.61,11,36,3
+176,CAF,Central African Republic,1985.35,17,33,1
+177,NPL,Nepal,1968.59,11,35,2
+178,CMR,Cameroon,1913.5,17,32,2
+179,LKA,Sri Lanka,1904,14,31,2
+180,XKX,Kosovo,1861.88,12,34,2
+181,LBN,Lebanon,1837.23,14,30,2
+182,COG,Congo,1832.34,15,33,0
+183,SSD,South Sudan,1830.91,12,33,2
+184,COD,Congo (Democratic Republic of the),1795.72,13,33,1
+185,NGA,Nigeria,1770.66,23,24,0
+186,IRN,Iran (Islamic Republic of),1724.28,9,30,3
+187,LBY,Libya,1723.93,11,32,2
+188,BGD,Bangladesh,1713.87,16,26,2
+189,PSE,"Palestine, State of",1712.82,11,30,3
+190,ETH,Ethiopia,1686.39,8,34,2
+191,PRK,Korea (Democratic People's Republic of),1678.79,9,35,2
+192,ERI,Eritrea,1632.81,8,32,3
+193,SDN,Sudan,1575.83,8,34,1
+194,YEM,Yemen,1433.78,9,29,2
+195,SOM,Somalia,1393.47,7,29,2
+196,PAK,Pakistan,1372.44,7,28,1
+197,SYR,Syrian Arab Republic,1339.25,8,28,1
+198,IRQ,Iraq,1200.87,5,26,2
+199,AFG,Afghanistan,991.88,4,25,1

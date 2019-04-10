@@ -1,0 +1,200 @@
+Rank,Code,Name,HDI,GDP,Area,Tourism,Score
+1,USA,United States of America,92.4,82.4,55.7,93.5,88.94
+2,AUS,Australia,93.9,5.1,44.5,93.1,82.04
+3,CAN,Canada,92.6,7.5,57.7,90.7,81.81
+4,DEU,Germany,93.6,17.4,2.1,96.4,80.8
+5,CHN,China,75.2,99,55.7,86.2,80.14
+6,JPN,Japan,90.9,23.1,2.2,96,80
+7,FRA,France,90.1,12.1,3.7,97.1,79.32
+8,ESP,Spain,89.1,7.4,2.9,99,79.24
+9,GBR,United Kingdom of Great Britain and Northern Ireland,92.2,12.2,1.4,94.9,79.11
+10,CHE,Switzerland,94.4,2.3,0.2,90.2,77.12
+11,HKG,Hong Kong,93.3,1.9,0,88.8,76.02
+12,SGP,Singapore,93.2,2.2,0,88.6,75.93
+13,ITA,Italy,88,9.9,1.7,91.1,75.6
+14,NOR,Norway,95.3,1.6,1.9,84.6,75.26
+15,RUS,Russian Federation,81.6,17,99,75.7,75.22
+16,AUT,Austria,90.8,1.9,0.5,88.6,74.96
+17,NLD,Netherlands,93.1,3.9,0.2,84.7,74.43
+18,NZL,New Zealand,91.7,0.8,1.6,85.4,73.99
+19,SWE,Sweden,93.3,2.2,2.6,83.1,73.9
+20,IRL,Ireland,93.8,1.5,0.4,82.6,73.64
+21,ISL,Iceland,93.5,0.1,0.6,82.1,73.21
+22,KOR,Korea (Republic of),90.3,8.6,0.6,83.3,73.12
+23,BEL,Belgium,91.6,2.3,0.2,82.9,72.9
+24,DNK,Denmark,92.9,1.3,0.2,80.8,72.51
+25,FIN,Finland,92,1,2,80.3,72.02
+26,LUX,Luxembourg,90.4,0.3,0,82,71.85
+27,PRT,Portugal,84.7,1.3,0.5,86.5,71.5
+28,BRA,Brazil,75.9,13.8,49.2,82,71.04
+29,GRC,Greece,87,1.2,0.8,82.2,70.68
+30,ARE,United Arab Emirates,86.3,3,0.5,82,70.39
+31,CZE,Czech Republic,88.8,1.6,0.5,77,69.27
+32,SVN,Slovenia,89.6,0.3,0.1,76.3,69.16
+33,MLT,Malta,87.8,0.1,0,77.6,68.94
+34,MEX,Mexico,77.4,10.4,11.4,82.8,68.55
+35,EST,Estonia,87.1,0.2,0.3,77.1,68.46
+36,HRV,Croatia,83.1,0.4,0.3,80.6,68.28
+37,MYS,Malaysia,80.2,4,1.9,82,68.09
+38,POL,Poland,86.5,4.8,1.8,75,67.85
+39,ISR,Israel,90.3,1.3,0.1,70.1,66.97
+40,ARG,Argentina,82.5,3.9,16.1,73.9,66.83
+41,CYP,Cyprus,86.9,0.1,0.1,73.4,66.8
+42,QAT,Qatar,85.6,1.4,0.1,74.4,66.77
+43,CHL,Chile,84.3,1.9,4.4,74.1,66.54
+44,SAU,Saudi Arabia,85.3,7.5,12.4,69.7,66.26
+45,PAN,Panama,78.9,0.4,0.4,79.7,66.16
+46,HUN,Hungary,83.8,1.2,0.5,74,65.89
+47,TUR,Turkey,79.1,9.5,4.5,75.6,65.61
+48,LTU,Lithuania,85.8,0.4,0.4,71.4,65.58
+49,LVA,Latvia,84.7,0.2,0.4,72.4,65.51
+50,THA,Thailand,75.5,5.2,3,80,65.46
+51,BGR,Bulgaria,81.3,0.6,0.6,75.5,65.42
+52,SVK,Slovakia,85.5,0.8,0.3,71.1,65.34
+53,CRI,Costa Rica,79.4,0.4,0.3,77.1,65.26
+54,BHR,Bahrain,84.6,0.3,0,71,64.87
+55,SYC,Seychelles,79.7,0,0,72.9,63.59
+56,IND,India,64,40.1,19,76.3,63.4
+57,OMN,Oman,82.1,0.8,1.8,69.1,63.2
+58,BRB,Barbados,80,0,0,71.3,63.02
+59,ROU,Romania,81.1,2.1,1.4,68.9,62.79
+60,PER,Peru,75,1.8,7.4,73.8,62.76
+61,MUS,Mauritius,79,0.1,0,71.5,62.73
+62,IDN,Indonesia,69.4,13.8,11,75.8,62.57
+63,KAZ,Kazakhstan,80,2,15.8,65.5,62.12
+64,MNE,Montenegro,81.4,0,0.1,67.2,61.93
+65,ECU,Ecuador,75.2,0.8,1.6,71.4,61.27
+66,LKA,Sri Lanka,77,1.2,0.4,69.6,61.21
+67,URY,Uruguay,80.4,0.3,1,65.9,61.08
+68,COL,Colombia,74.7,3,6.6,69.9,61.04
+69,IRN,Iran (Islamic Republic of),79.8,7.2,9.5,62.5,60.7
+70,GEO,Georgia,78,0.2,0.4,67.5,60.69
+71,TTO,Trinidad and Tobago,78.4,0.2,0,67,60.59
+72,ZAF,South Africa,69.9,3.3,7.1,73.1,60.43
+73,AZE,Azerbaijan,75.7,0.7,0.5,67.5,59.78
+74,KWT,Kuwait,80.3,1.3,0.1,60.7,58.88
+75,JAM,Jamaica,73.2,0.1,0.1,67.8,58.75
+76,SRB,Serbia,78.7,0.5,0.5,61.8,58.6
+77,JOR,Jordan,73.5,0.4,0.5,66.3,58.32
+78,DOM,Dominican Republic,73.6,0.7,0.3,66.1,58.3
+79,UKR,Ukraine,75.1,1.6,3.5,63.8,58.29
+80,ARM,Armenia,75.5,0.1,0.2,64.3,58.28
+81,ALB,Albania,78.5,0.2,0.2,61.2,58.22
+82,MKD,Macedonia (the former Yugoslav Republic of),75.7,0.1,0.1,63.7,58.11
+83,VNM,Viet Nam,69.4,2.8,1.9,69,58.07
+84,EGY,Egypt,69.6,4.8,5.8,66.5,57.59
+85,TUN,Tunisia,73.5,0.6,0.9,63.9,57.38
+86,VEN,Venezuela (Bolivarian Republic of),76.1,2.4,5.3,59.9,57.31
+87,LBN,Lebanon,75.7,0.4,0.1,61.5,57.21
+88,MAR,Morocco,66.7,1.3,2.6,69.6,57.1
+89,PHL,Philippines,69.9,3.7,2,65.7,56.97
+90,BWA,Botswana,71.7,0.2,3.4,64.2,56.92
+91,MNG,Mongolia,74.1,0.2,9,60.4,56.81
+92,DZA,Algeria,75.4,2.7,13.8,56,56.13
+93,BIH,Bosnia and Herzegovina,76.8,0.2,0.3,56.9,55.76
+94,SUR,Suriname,72,0,0.9,59.8,55
+95,BOL,Bolivia (Plurinational State of),69.3,0.4,6.4,60.9,54.81
+96,NAM,Namibia,64.7,0.1,4.8,65.5,54.65
+97,CPV,Cabo Verde,65.4,0,0,64.8,54.26
+98,GTM,Guatemala,65,0.6,0.6,64,53.84
+99,NIC,Nicaragua,65.8,0.2,0.8,62.8,53.64
+100,PRY,Paraguay,70.2,0.3,2.4,57.4,53.39
+101,SLV,El Salvador,67.4,0.2,0.1,59.8,53.01
+102,BTN,Bhutan,61.2,0,0.2,65.8,52.94
+103,MDA,Moldova (Republic of),70,0.1,0.2,56.4,52.7
+104,GAB,Gabon,70.2,0.2,1.5,55.9,52.66
+105,HND,Honduras,61.7,0.2,0.7,63.6,52.29
+106,KEN,Kenya,59,0.7,3.4,65.5,52.23
+107,GUY,Guyana,65.4,0,1.2,59.5,52.13
+108,KGZ,Kyrgyzstan,67.2,0.1,1.2,56.7,51.71
+109,TJK,Tajikistan,65,0.1,0.8,58.1,51.38
+110,LAO,Lao People's Democratic Republic,60.1,0.2,1.4,62.1,51.03
+111,KHM,Cambodia,58.2,0.3,1,60.5,49.57
+112,TZA,"Tanzania, United Republic of",53.8,0.7,5.5,62.9,49.16
+113,ZMB,Zambia,58.8,0.3,4.4,58,49.07
+114,NPL,Nepal,57.4,0.3,0.9,59.9,48.98
+115,SWZ,Swaziland,58.8,0,0.1,58.5,48.88
+116,GHA,Ghana,59.2,0.6,1.4,55.5,47.95
+117,BGD,Bangladesh,60.8,2.7,0.9,52.7,47.6
+118,RWA,Rwanda,52.4,0.1,0.2,61.4,47.43
+119,PAK,Pakistan,56.2,4.6,5.1,52.8,46.21
+120,ZWE,Zimbabwe,53.5,0.1,2.3,56.8,46.17
+121,UGA,Uganda,51.6,0.3,1.4,58.5,46
+122,CMR,Cameroon,55.6,0.4,2.7,52.5,45.3
+123,MMR,Myanmar,57.8,1.4,3.9,49.5,45.17
+124,SEN,Senegal,50.5,0.2,1.1,57.4,45.05
+125,CIV,Cote d'Ivoire,49.2,0.4,1.9,57.7,44.74
+126,MDG,Madagascar,51.9,0.2,3.4,54.5,44.63
+127,AGO,Angola,58.1,0.8,7.2,47.3,44.61
+128,NGA,Nigeria,53.2,4.8,5.3,51.4,44.43
+129,ETH,Ethiopia,46.3,0.8,6.4,56.6,43.46
+130,LSO,Lesotho,52,0,0.2,51.8,43.26
+131,BEN,Benin,51.5,0.1,0.7,51.9,43.13
+132,GMB,Gambia,46,0,0.1,57,42.92
+133,MRT,Mauritania,52,0.1,6,48.1,42.23
+134,MWI,Malawi,47.7,0.1,0.7,53.1,42.05
+135,HTI,Haiti,49.8,0.1,0.2,50.1,41.66
+136,MOZ,Mozambique,43.7,0.2,4.6,53.2,40.76
+137,COD,Congo (Democratic Republic of the),45.7,0.3,13.6,48.1,40.25
+138,MLI,Mali,42.7,0.2,7.2,50.8,39.57
+139,GIN,Guinea,45.9,0.1,1.4,47,38.85
+140,LIE,Liechtenstein,91.6,0,0,0,38.17
+141,BFA,Burkina Faso,42.3,0.2,1.6,48.7,38.05
+142,SLE,Sierra Leone,41.9,0,0.4,49.1,37.97
+143,YEM,Yemen,45.2,0.2,3.1,44.5,37.66
+144,BDI,Burundi,41.7,0,0.2,46.8,36.89
+145,TCD,Chad,40.4,0.1,7.4,46.1,36.65
+146,AND,Andorra,85.8,0,0,0,35.75
+147,BRN,Brunei Darussalam,85.3,0.1,0,0,35.56
+148,BLR,Belarus,80.8,0.8,1.2,0,33.83
+149,BHS,Bahamas,80.7,0.1,0.1,0,33.64
+150,PLW,Palau,79.8,0,0,0,33.25
+151,ATG,Antigua and Barbuda,78,0,0,0,32.5
+152,CUB,Cuba,77.7,0,0.6,0,32.43
+153,KNA,Saint Kitts and Nevis,77.8,0,0,0,32.42
+154,GRD,Grenada,77.2,0,0,0,32.17
+155,LCA,Saint Lucia,74.7,0,0,0,31.13
+156,FJI,Fiji,74.1,0,0.1,0,30.89
+157,LBY,Libya,70.6,0.5,10.2,0,30.31
+158,TON,Tonga,72.6,0,0,0,30.25
+159,VCT,Saint Vincent and the Grenadines,72.3,0,0,0,30.13
+160,MDV,Maldives,71.7,0,0,0,29.88
+161,UZB,Uzbekistan,71,0.9,2.6,0,29.88
+162,DMA,Dominica,71.5,0,0,0,29.79
+163,WSM,Samoa,71.3,0,0,0,29.71
+164,TKM,Turkmenistan,70.6,0.4,2.8,0,29.69
+165,BLZ,Belize,70.8,0,0.1,0,29.51
+166,MHL,Marshall Islands,70.8,0,0,0,29.5
+167,IRQ,Iraq,68.5,2.8,2.5,0,28.99
+168,PSE,"Palestine, State of",68.6,0.1,0,0,28.59
+169,FSM,Micronesia (Federated States of),62.7,0,0,0,26.13
+170,TLS,Timor-Leste,62.5,0,0.1,0,26.05
+171,KIR,Kiribati,61.2,0,0,0,25.5
+172,COG,Congo,60.6,0.1,2,0,25.42
+173,VUT,Vanuatu,60.3,0,0.1,0,25.13
+174,GNQ,Equatorial Guinea,59.1,0.1,0.2,0,24.65
+175,STP,Sao Tome and Principe,58.9,0,0,0,24.54
+176,PNG,Papua New Guinea,54.4,0.1,2.7,0,22.9
+177,SLB,Solomon Islands,54.6,0,0.2,0,22.76
+178,SYR,Syrian Arab Republic,53.6,0,1.1,0,22.42
+179,SDN,Sudan,50.2,0.8,10.9,0,21.9
+180,AFG,Afghanistan,49.8,0.3,3.8,0,21.09
+181,TGO,Togo,50.3,0.1,0.3,0,20.99
+182,COM,Comoros,50.3,0,0,0,20.96
+183,DJI,Djibouti,47.6,0,0.1,0,19.84
+184,GNB,Guinea-Bissau,45.5,0,0.2,0,18.98
+185,ERI,Eritrea,44,0,0.7,0,18.39
+186,LBR,Liberia,43.5,0,0.6,0,18.18
+187,SSD,South Sudan,38.8,0.1,3.6,0,16.47
+188,CAF,Central African Republic,36.7,0,3.6,0,15.59
+189,NER,Niger,35.4,0.1,7.3,0,15.37
+190,SOM,Somalia,0,0,3.7,0,0.31
+191,PRK,Korea (Democratic People's Republic of),0,0,0.7,0,0.06
+192,TWN,Taiwan,0,0,0.2,0,0.02
+193,SMR,San Marino,0,0,0,0,0
+194,NRU,Nauru,0,0,0,0,0
+195,TUV,Tuvalu,0,0,0,0,0
+196,MAC,Macao,0,0,0,0,0
+197,MCO,Monaco,0,0,0,0,0
+198,VAT,Holy See,0,0,0,0,0
+199,XKX,Kosovo,0,0,0,0,0
