@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+### Welcome to The DaVinci Passport Index
 
-You can use the [editor on GitHub](https://github.com/AndreaDaVinci/TheDaVinciPassportIndex/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The DaVinci Passport Index is a ranking of the world's passports, using a comprehensive formula that avoids oversimplifying.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Ingredients
 
-### Markdown
+The formula includes:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Data about the number of destinations accessible to the passport holders, with a distinction between the three access levels: Visa free, visa on arrival and eTA required.
+- The destination’s HDI (Human Development Index) by the United Nations Development Program, to reflect the destination’s level of development.
+- The destination’s GDP (Gross Domestic Product) to reflect the strategic importance of the destination.
+- The destination’s area to reflect the size of the destination.
+- The destination’s TTCI (Travel & Tourism Competitiveness Index) by the World Economic Forum, to reflect the tourism attractiveness of the destination.
 
-```markdown
-Syntax highlighted code block
+# The formula
 
-# Header 1
-## Header 2
-### Header 3
+### Destinations:
 
-- Bulleted
-- List
+The score of a destination is equal to the weighted average of the four scores:
 
-1. Numbered
-2. List
+- HDI (Human Development Index) = percentage of the highest value.
+- GDP (Gross Domestic Product) = percentage of the world’s highest GDP.
+- Destination’s area = percentage of the world’s biggest area.
+- TTCI (Travel & Tourism Competitiveness Index) = percentage of the highest value.
 
-**Bold** and _Italic_ and `Code` text
+Weight factors:
 
-[Link](url) and ![Image](src)
-```
+- HDI (Human Development Index): Weight = 5
+- GDP (Gross Domestic Product):	Weight = 1
+- Destination’s area:	Weight = 1
+- TTCI (Travel & Tourism Competitiveness Index): Weight = 5
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Passports:
 
-### Jekyll Themes
+The total score of a passport is equal to the total of all its accessible destinations’ values. And to reflect the difference between the different access levels, an adjustment factor is used:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndreaDaVinci/TheDaVinciPassportIndex/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Access level 1 [Visa free]: Adjustment factor = 1
+- Access level 2 [Visa on arrival]: Adjustment factor = 0.9
+- Access level 3 [eTA required]: Adjustment factor = 0.8
 
-### Support or Contact
+# Results
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Top 20 destinations:
+
+<img src="https://github.com/AndreaDaVinci/TheDaVinciPassportIndex/raw/master/...../Resources/Top20Destinations.png" alt="hi" class="inline"/>
+
+Top 20 passports:
+
+<img src="https://github.com/AndreaDaVinci/TheDaVinciPassportIndex/raw/master/...../Resources/Top20Passports.png" alt="hi" class="inline"/>
+
+# Download
+
+Download [The DaVinci Passport Index 2019](https://github.com/AndreaDaVinci/.../result.pdf).
+
+# References
+
+- Data from the 2017 Travel and Tourism Competitiveness Index: <a href="https://www.weforum.org/reports/the-travel-tourism-competitiveness-report-2017">Tourism Competitiveness Report 2017</a>
+- Data of the 2017 Human Development Index and 2017 Gross Domestic Product: <a href="http://hdr.undp.org/en/content/human-development-report-office-statistical-data-api">Human Development Report</a>
