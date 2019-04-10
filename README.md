@@ -1,6 +1,7 @@
 ### Welcome to The Da Vinci Passport Index
 
 The Da Vinci Passport Index is a ranking of the world's passports, using a comprehensive formula that avoids oversimplifying.
+For more details, check the <a href="https://medium.com/@AndreaDaVinci/the-da-vinci-passport-index-c3e574c15adb?">article on Medium</a>.
 
 # Ingredients
 
@@ -54,5 +55,5 @@ Download [The DaVinci Passport Index 2019](https://github.com/AndreaDaVinci/TheD
 
 # References
 
-- Data from the 2017 Travel and Tourism Competitiveness Index: <a href="https://www.weforum.org/reports/the-travel-tourism-competitiveness-report-2017">Tourism Competitiveness Report 2017</a>
-- Data of the 2017 Human Development Index and 2017 Gross Domestic Product: <a href="http://hdr.undp.org/en/content/human-development-report-office-statistical-data-api">Human Development Report</a>
+- Data from the 2017 Travel and Tourism Competitiveness Index: <a href="https://www.weforum.org/reports/the-travel-tourism-competitiveness-report-2017">Tourism Competitiveness Report 2017</a>.
+- Data of the 2017 Human Development Index and 2017 Gross Domestic Product: <a href="http://hdr.undp.org/en/content/human-development-report-office-statistical-data-api">Human Development Report</a>.
